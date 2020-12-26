@@ -6,3 +6,5 @@ This repo stores a number of practice example for a varity of machine learning a
 
 ## Reinforcement Learning
 1. Markov decision process
+
+## Recommender system
