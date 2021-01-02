@@ -8,6 +8,7 @@ This repo stores a number of practice example for a varity of machine learning a
 1. Markov decision process
 
 ## Recommender system
+1. Collaborative Filtering
 
 ## Graph embedding
 1. DeepWalk(Karate club dataset)
