@@ -12,3 +12,5 @@ This repo stores a number of practice example for a varity of machine learning a
 
 ## Graph embedding
 1. DeepWalk(Karate club dataset)
+
+There are lots of things that need to be done.
