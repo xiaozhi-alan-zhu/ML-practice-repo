@@ -13,3 +13,6 @@ This repo stores a number of practice example for a varity of machine learning a
 ## Graph embedding
 1. DeepWalk(Karate club dataset)
 
+## Numerical Techniques
+1. Nyström Approximation
+
